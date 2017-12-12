@@ -1,7 +1,9 @@
 # linux-apt-fix
 first of all this is not one of my codes, this has been taken from :
 https://askubuntu.com/questions/674976/check-for-and-remove-unused-ppas
+
 accord to the creator the usage is this:
+
 "
 Make the script executable
 
